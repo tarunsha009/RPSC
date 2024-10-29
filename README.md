@@ -1,34 +1,63 @@
-# RPSC Exam Resources
+# RPSC Programmer Resources
 
-Welcome to the RPSC (Rajasthan Public Service Commission) Exam Resources repository! This repository contains comprehensive study materials, previous year papers, and solutions for various RPSC examinations.
+[![RPSC](https://img.shields.io/badge/RPSC-Programmer-blue)](https://github.com/tarunsha009/RPSC)
+[![Year](https://img.shields.io/badge/Year-2024-green)](https://github.com/tarunsha009/RPSC/tree/main/papers/2024)
+[![Papers](https://img.shields.io/badge/Papers-Technical-orange)](https://github.com/tarunsha009/RPSC/tree/main/papers/2024/programmer-paper-1)
 
-## What's Inside
+## Overview
+Collection of RPSC (Rajasthan Public Service Commission) Programmer examination papers with answers. This repository aims to help candidates prepare for RPSC technical examinations by providing access to question papers and their solutions.
 
-- 📝 Previous Year Papers with Solutions
-- 📚 Study Materials
-- 💡 Detailed Explanations
-- 🎯 Topic-wise Resources
+## Available Papers
 
-## Latest Updates
+### RPSC Programmer 2024
+- [Paper-1 Questions](papers/2024/programmer-paper-1/questions.md)
+- [Paper-1 Answers](papers/2024/programmer-paper-1/answers.md)
 
-- [2024] Added Programmer Paper-1 with detailed solutions
-- [Coming Soon] Topic-wise study materials
-- [Coming Soon] Practice questions
+## Paper Structure
+- **Total Questions**: 100
+- **Marks**: 200
+- **Time**: 2 Hours
+- **Format**: Multiple Choice Questions
+- **Topics Covered**:
+  - Programming & Data Structures
+  - Database Management Systems
+  - Computer Networks
+  - Operating Systems
+  - Software Engineering
 
-## How to Use This Repository
+## How to Use
+1. Access questions and answers through the links above
+2. Each question is numbered for easy reference
+3. Answers are provided in a separate file for self-assessment
 
-1. Navigate to the relevant year and paper in the `papers` directory
-2. Check `study-material` for topic-wise resources
-3. Use the issues section for doubts and discussions
+## Note
+- This is a community-maintained repository
+- Please verify all information with official RPSC sources
+- Questions and answers are for educational purposes
 
 ## Contributing
+Feel free to:
+- Report any errors in questions or answers
+- Suggest improvements
+- Add missing information
 
-We welcome contributions! Please see our contributing guidelines for more details.
+## Keywords
+```yaml
+topics:
+  - RPSC Programmer
+  - Technical MCQs
+  - Computer Science
+  - Government Exams
+  - Rajasthan PSC
+  - Programming Questions
+```
 
-## License
+---
 
-This repository is licensed under the MIT License - see the LICENSE file for details.
+<div align="center">
 
-## Contact
+⭐ Found this helpful? Star this repository! ⭐
 
-For any queries, please open an issue or contact Repository Owner.
+[Report Issues](https://github.com/tarunsha009/RPSC/issues)
+
+</div>
